@@ -1,4 +1,4 @@
-# [Quantifying spatiotemporal occupancy dynamics and multi-year core use areas at a species range boundary]
+# Quantifying spatiotemporal occupancy dynamics and multi-year core use areas at a species range boundary
 
 ### Hostetter NJ, D Ryan, D Grosshuesch, T Catton, S Malick-Wahls, TA Smith, and B Gardner
 
