@@ -1,10 +1,10 @@
-# Quantifying spatiotemporal occupancy dynamics and multi-year core use areas at a species range boundary
+# [Quantifying spatiotemporal occupancy dynamics and multi-year core use areas at a species range boundary](https://doi.org/10.1111/ddi.13066)
 
 ### Hostetter NJ, D Ryan, D Grosshuesch, T Catton, S Malick-Wahls, TA Smith, and B Gardner
 
 ### Diversity and Distributions
 
-### Code/Data DOI: [doi:10.5061/dryad.66t1g1jzq](https://doi:10.5061/dryad.66t1g1jzq)
+### Code/Data DOI: [doi:10.5061/dryad.66t1g1jzq](https://datadryad.org/stash/dataset/doi:10.5061/dryad.66t1g1jzq)
 
 ### Please contact the first author for questions about the code or data: Nathan Hostetter (njhostet@uw.edu)
 __________________________________________________________________________________________________________________________________________
