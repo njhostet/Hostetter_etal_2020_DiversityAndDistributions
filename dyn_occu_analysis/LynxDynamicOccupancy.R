@@ -172,4 +172,4 @@ round(out$summary[c("beta0.psi",paste("beta.psi[",1:4,"]", sep=""),
             "beta0.phi",paste("beta.phi[",1:4,"]", sep=""),paste("beta.phi.yr[",1:4,"]", sep=""),
             "beta0.gamma",paste("beta.gamma[",1:4,"]", sep=""),paste("beta.gamma.yr[",1:4,"]", sep=""),
             "beta0.p",paste("beta.p[",1:3,"]", sep=""),paste("beta.p.snow[",1:3,"]", sep=""),paste("beta.p.road[",1:2,"]", sep="")),
-           c("50%", "2.5%", "97.5%","Rhat", "n.eff") ],3)
+           c("50%", "2.5%", "97.5%") ],3)
